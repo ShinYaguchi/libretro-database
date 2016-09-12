@@ -1,6 +1,21 @@
-cheats = 1 
+cheats = 5 
 
 cheat0_desc = "Infinite Health Character 1"
 cheat0_code = "7E1010FF"
 cheat0_enable = false 
 
+cheat1_desc = "Always Have Neutral Alignment "
+cheat1_code = "7E101C80"
+cheat1_enable = false 
+
+cheat2_desc = "Always Have Chaotic Alignment"
+cheat2_code = "7E101C00"
+cheat2_enable = false 
+
+cheat3_desc = "Always Have Lawful Alignment"
+cheat3_code = "7E101CFF"
+cheat3_enable = false 
+
+cheat4_desc = "Infinite Maximum Magnetite"
+cheat4_code = "7E0309FF+7E030AFF+7E030BFF"
+cheat4_enable = false 
